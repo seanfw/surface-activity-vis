@@ -3,6 +3,13 @@ Code to map population activity onto the cortical surface
 
 Type help before the function name in the Matlab command window for usage instructions.
 
+Original code developed for 
+Froudist-Walsh, Sean, Daniel P. Bliss, Xingyu Ding, Lucija Jankovic-Rapan, Meiqi Niu, Kenneth Knoblauch, Karl Zilles, Henry Kennedy, Nicola Palomero-Gallagher, and Xiao-Jing Wang. "A dopamine gradient controls access to distributed working memory in monkey cortex." bioRxiv (2020).
+and
+Froudist-Walsh, Sean, Ting Xu, Meiqi Niu, Lucija Rapan, Karl Zilles, Daniel S. Margulies, Xiao-Jing Wang, and Nicola Palomero-Gallagher. "Gradients of receptor expression in the macaque cortex." bioRxiv (2021).
+
+This code version developed for upcoming paper
+Ulysse Klatzmann et al. (in prep)
 
 Example data:
 Connectivity data from Henry Kennedy's lab. See core-nets.org for latest public release of connectivity data. 
@@ -19,3 +26,5 @@ Donahue, Chad J., Stamatios N. Sotiropoulos, Saad Jbabdi, Moises Hernandez-Ferna
 
 Ignition simulations:
 Ulysse Klatzmann et al. (in prep)
+
+Please cite the appropriate papers above if using code and/or data. Contact me for any issues. Thanks! 
